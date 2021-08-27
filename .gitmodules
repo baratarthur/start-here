@@ -1,0 +1,3 @@
+[submodule "rentalx"]
+	path = rentalx
+	url = git@github.com:baratarthur/rentalx.git
